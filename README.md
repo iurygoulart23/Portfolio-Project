@@ -17,6 +17,7 @@
     <p>- Confusion Matrix</p>
     <p>- Scipy Stats</p>
     
-   <p> **Conclusion**: The Random Forest Classifier learning method performed best with a baseline score of 55%, which is somewhat successful and better than guessing (where 11% accuracy would be expected.) The model possibly could be refined for better accuracy, however there is a real concern of forcing/overfitting the data.
+   <p> 
+**Conclusion**: The Random Forest Classifier learning method performed best with a baseline score of 55%, which is somewhat successful and better than guessing (where 11% accuracy would be expected.) The model possibly could be refined for better accuracy, however there is a real concern of forcing/overfitting the data.
 
 **The Natural Language Processing** learning exercise resulted in a model that made the correct prediction in average of 1.9/10 times, very slightly better performance compared to guessing (where 1/10 times is expected.) Note again that this was a learning exercise using available but not entirely adequate data, and as such this was successful. </p>
